@@ -1,4 +1,4 @@
-FROM jvanoers/node-karma-protractor
+FROM jvanoers/node-karma-protractor:xvfb
 
 # Taken from
 # https://github.com/dotnet/dotnet-docker/blob/master/1.1/debian/sdk/projectjson/Dockerfile
